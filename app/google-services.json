@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "962007552593",
+    "project_id": "project-c4cc4",
+    "storage_bucket": "project-c4cc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962007552593:android:7c70eff2fea12cdda4de70",
+        "android_client_info": {
+          "package_name": "com.kimanthi.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLJn_Ov-pz3l6SEjUNAkgmOk01cfvLbis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
